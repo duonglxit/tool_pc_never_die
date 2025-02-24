@@ -1,6 +1,7 @@
 import os
 from win32com.client import Dispatch
 
+# Hàm thêm khởi động cùng window
 def add_to_startup():
     # Đường dẫn tới tệp thực thi đã đóng gói
     exe_path = os.path.join(os.path.dirname(__file__), "dist", "pc_never_die.exe")
@@ -16,5 +17,6 @@ def add_to_startup():
     # Bạn có thể chỉ định icon nếu muốn, ví dụ: shortcut.IconLocation = exe_path
     shortcut.save()
 
+# Chạy chương trình
 if __name__ == "__main__":
     add_to_startup()
