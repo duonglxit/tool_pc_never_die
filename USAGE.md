@@ -31,4 +31,4 @@ PC Never Die giúp ngăn máy tính chuyển sang chế độ sleep. Dưới đ�
 
 ---
 
-Lưu file này với tên "USAGE.md" và chia sẻ cùng các thành phần khác của dự án để hướng dẫn người dùng.
+Tác giả: duonglxit
