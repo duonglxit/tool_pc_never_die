@@ -27,8 +27,6 @@ PC Never Die giúp ngăn máy tính chuyển sang chế độ sleep. Dưới đ�
 - **Thư viện:** `pystray`, `Pillow`, `ctypes`, `win32com`
 
 ## 6. Thông Tin Tác Giả
-- Chi tiết về tác giả được ghi trong file [Ghichu.txt](Ghichu.txt).
+- **Tác giả:** duonglxit
 
 ---
-
-Tác giả: duonglxit
