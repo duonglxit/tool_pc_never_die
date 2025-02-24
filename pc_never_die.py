@@ -33,7 +33,7 @@ def create_icon_image(color):
 
 def update_tooltip():
     """Cập nhật tooltip"""
-    tray_icon.title = "🟢 Đang bật pc never die" if keep_awake else "🔴 Đã tắt pc never die"
+    tray_icon.title = "✔ pc never die is on" if keep_awake else "❌ pc never die is off"
 
 def toggle_awake(icon, item):
     """Hàm bật/tắt chế độ giữ máy thức"""
