@@ -1,5 +1,5 @@
 import os
-from win32com.client import Dispatch
+from win32com.client import Dispatch # type: ignore
 
 # Hàm thêm khởi động cùng window
 def add_to_startup():
