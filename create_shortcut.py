@@ -16,6 +16,6 @@ def add_to_startup():
     # Bạn có thể chỉ định icon nếu muốn, ví dụ: shortcut.IconLocation = exe_path
     shortcut.save()
 
-# Chạy hàm thêm vào startup
+# Chạy hàm thêm vào startup khi chạy tệp này
 if __name__ == "__main__":
     add_to_startup()
